@@ -59,6 +59,8 @@
 {
 	// reload meetup info
 	pageOffset = 0;
+	[meetups removeAllObjects];
+	[self.tableView reloadData];
 	[self startFetchingMeetups];
 }
 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>060228AE-CE4C-4959-93F1-BA832A088450</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MeetUpOTown</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>99F31BA6BB87D9DCE833C3C7D85B158E8F5DFF80</key>
+		<string>https://github.com/digitalbeans/MeetUpOTown.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MeetUpOTown.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>99F31BA6BB87D9DCE833C3C7D85B158E8F5DFF80</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/digitalbeans/MeetUpOTown.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>99F31BA6BB87D9DCE833C3C7D85B158E8F5DFF80</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99F31BA6BB87D9DCE833C3C7D85B158E8F5DFF80</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MeetUpOTown</string>
+		</dict>
+	</array>
+</dict>
+</plist>
