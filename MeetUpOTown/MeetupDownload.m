@@ -9,6 +9,9 @@
 #import "MeetupDownload.h"
 #import "MeetupInfo.h"
 
+
+// You need to create your own api key, here: https://secure.meetup.com/meetup_api/key/
+// and specify it here:
 #define API_KEY @"1f5f2c641f6136425c53536f4223257"
 
 @implementation MeetupDownload
